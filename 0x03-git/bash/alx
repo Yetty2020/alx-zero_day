@@ -1,4 +1,5 @@
 #!/bin/bash
 <<<<<<< Head
-=====
+=====echo "ALX school"
+	echo "ALX SCHOOL IS SO COOL!"
 >>>>>>> update_script
